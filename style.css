@@ -1,0 +1,25 @@
+body {
+    background-color: rgb(236, 215, 188);
+}
+
+img {
+    width: 299px;
+    height: 204px;
+}
+
+p {
+    font-size: 20px;
+}
+
+p.big {
+    font-size: 64px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: left;
+    
+}
+
+figcaption {
+    font-size: 14px;
+    opacity: 69%;
+    font-style: italic;
+}
