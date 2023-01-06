@@ -11,15 +11,23 @@ p {
     font-size: 20px;
 }
 
-p.big {
+header p {
     font-size: 64px;
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     text-align: left;
     
 }
 
-figcaption {
-    font-size: 14px;
+p.caption {
+    font-size: 10px;
     opacity: 69%;
     font-style: italic;
 }
+
+p.indent {
+    text-indent: 48px;
+}
+
+br.big {
+    line-height: 300%;
+ }
