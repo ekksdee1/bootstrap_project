@@ -13,21 +13,22 @@ p {
 
 header p {
     font-size: 64px;
-    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     text-align: left;
-    
 }
 
-p.caption {
+.captionText {
     font-size: 10px;
     opacity: 69%;
     font-style: italic;
 }
 
+.captionImage {
+    text-align: center;
+    width: 379px;
+    height: 304px;
+}
+
 p.indent {
     text-indent: 48px;
 }
-
-br.big {
-    line-height: 300%;
- }
